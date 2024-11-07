@@ -19,16 +19,16 @@ Before you start, ensure you have the following installed:
 ## Installation
 
 1. Clone the repository to your local machine:
-   'git clone https://github.com/yourusername/ui-automation-framework.git'
+   `git clone https://github.com/yourusername/ui-automation-framework.git`
 2. Navigate into the project directory:
-   'cd ui-automation-framework'
+   `cd ui-automation-framework`
 3. Install the required dependencies:
-   'npm install'
+   `npm install`
 4. Make sure you have Playwright installed:
-   'npx playwright install'
+   `npx playwright install`
 5. Running the Tests
    To run the automation script for the "Add to Cart" functionality, simply use the following command:
-   'npm test'
+   `npm test`
 
 ## Example Test Flow
 1. Navigate to the Saucedemo login page.
